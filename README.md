@@ -122,4 +122,4 @@ string that caused it.
 - MediaWiki API: `query`, `imageinfo` — https://www.mediawiki.org/wiki/API:Query · https://www.mediawiki.org/wiki/API:Imageinfo
 - Pydantic — https://docs.pydantic.dev
 
-> （注：部分内容由豆包 AI 生成）
+> 
