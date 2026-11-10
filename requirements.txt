@@ -1,0 +1,12 @@
+# Runtime dependencies for the Event Insight pipeline.
+# Developed and executed in Google Colab; the bounds below are the minimums
+# required by the APIs actually used in the notebook.
+
+google-genai>=1.0.0        # Gemini client; used for chats.create, generate_content and types.Tool(google_search=...)
+pydantic>=2.5.0            # v2 is required: model_validate, field_validator, Field(min_length=...)
+typing-extensions>=4.12.0  # TypedDict used for the optional response_schema configuration
+requests>=2.31.0           # Wikimedia Commons queries and image downloads
+
+# Note: google.colab.userdata is supplied by the Colab runtime and is not a pip
+# package. When running outside Colab, replace that lookup with an environment
+# variable so the API key is never written into the source.

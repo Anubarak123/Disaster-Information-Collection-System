@@ -1,0 +1,93 @@
+======================================================================
+  EVENT INSIGHT — FINAL SITUATION REPORT
+======================================================================
+  Event    : Wenchuan earthquake
+  Type     : Earthquake
+  Location : Wenchuan County, Sichuan Province, southwestern China, with the epicenter near Dujiangyan, about 80 km west-northwest of Chengdu. Affected areas included Sichuan, Gansu, and Shaanxi provinces, and tremors were felt across ten provinces.
+  Date     : May 12, 2008, at 14:28:01 China Standard Time (06:28:01 UTC)
+  Severity : At least 69,185 people killed, 374,171 injured, and 18,467 missing. The final official Chinese government assessment counted almost 90,000 people dead or missing, including over 5,300 children. Over 4.8 million people were left homeless, and more than 45.5 million people were affected across 10 provinces.  (score: 5/5)
+
+----------------------------------------------------------------------
+  OVERVIEW
+----------------------------------------------------------------------
+  The Wenchuan earthquake was a catastrophic magnitude 7.9 to 8.0 earthquake that struck Wenchuan County, Sichuan Province, China, on May 12, 2008. The disaster resulted in nearly 90,000 deaths or missing individuals, injured hundreds of thousands, and left millions homeless. It caused immense destruction, flattening four-fifths of structures in affected areas and triggering numerous landslides and dam failures.
+
+----------------------------------------------------------------------
+  SITUATION BRIEF
+----------------------------------------------------------------------
+  Headline : Wenchuan Earthquake Devastates Sichuan, China, Causing Massive Casualties and Damage
+  Overview : The Wenchuan earthquake, a massive 8.0 magnitude quake, struck Wenchuan County, Sichuan Province, China, on May 12, 2008, at 14:28 CST. Its epicenter was near Dujiangyan, approximately 80 km west-northwest of Chengdu, causing widespread destruction across southwestern China.
+  Severity : The disaster resulted in at least 69,185 people killed, 374,171 injured, and 18,467 missing, with the final official assessment reporting almost 90,000 dead or missing, including over 5,300 children. Over 4.8 million people were left homeless, and economic losses were estimated at 86 billion US dollars.
+  Affected : More than 45.5 million people across 10 provinces, including Sichuan, Gansu, and Shaanxi, were affected by the earthquake. Tremors were felt across a vast region of China.
+  Response : The Chinese government launched a massive rescue and relief operation, deploying military personnel and medical teams to the affected regions. Rescue efforts were complicated by aftershocks and landslides.
+  Key Facts:
+    1. The Wenchuan earthquake registered a magnitude of 8.0 Ms.
+    2. It occurred on May 12, 2008, at 14:28 China Standard Time.
+    3. The disaster led to almost 90,000 people dead or missing, including over 5,300 children.
+    4. More than 4.8 million individuals were left homeless across the affected regions.
+    5. Economic losses due to the earthquake were estimated at 86 billion US dollars.
+
+----------------------------------------------------------------------
+  SOURCED ARTICLES  (5 found)
+----------------------------------------------------------------------
+  [1] Sichuan earthquake of 2008 | Overview, Damage, & Facts - Britannica
+      URL    : https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH37BxzSRjGUAaAqps01UVrZL9s1f5iubiQ4Nhho8b5qs-am4mFPxkhgcCTJrl8ApxK5JkPOn7YOZJQy5hX1U2MKlJbvzGo6k-9tvMl0IIGvdhzCZ_lyPkLO_jHQtuwJNgVUvmyVWFRYKjsCT7H2knXCrskUz0=
+      Snippet: The Sichuan earthquake of 2008, also known as the Wenchuan earthquake, was a massive and enormously devastating earthquake that occurred on May 12, 2008, causing widespread destruction and nearly 90,000 deaths or missing persons.
+
+  [2] 2008 Sichuan earthquake - Wikipedia
+      URL    : https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRh-QsiOWREgov7levenhBmGEBJUfF1X29i29Fk5aCFXoxN1_7Lpcyx1Gv4tyEeVN0zqcqbHRD3a9EL0UonADlz1tcOJdZMIHxVCBsKWbFEBPU1ZF0Fp9qMf5VwGaFwdRhQSsbJa3xZu6yb_JbHSo=
+      Snippet: The 2008 Sichuan earthquake, with a magnitude of 8.0 Ms, occurred on May 12, 2008, in Wenchuan County, resulting in over 69,000 deaths, 374,000 injuries, and 18,000 missing, along with 4.8 million people left homeless.
+
+  [3] NCEI Hazard Earthquake Information - NOAA
+      URL    : https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWVB3ZmoBFgayvMRJBPQkSH5gj8lWMdwVp5lghBnf162EeQDhkdwT8MUWuFU-HC4iK_0YwK347-0FY83fxXe5f8mCZ5IVEerkcL4nmf7sZ8ZEnjVxHfASkNB-jg-dEzQqtlbZCfDmHrXA__e79kYyNm1yhglsusNmQxW9GUagT7hL1o6zWiw==
+      Snippet: On May 12, 2008, an earthquake 90 km WNW of Chengdu, Sichuan, China, killed at least 69,185 people, injured 374,171, and left 18,467 missing, affecting over 45.5 million people and causing an estimated 86 billion US dollars in economic loss.
+
+  [4] Wenchuan earthquake, 2008 | DisasterHistory.org
+      URL    : https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrKKX6Y-rdvFF0eJ1FHDeSMXW6AOCWzOwX2TBLVms0qzQBmFDN9Wz0qFgCGQKfa5AfE8gAgspdcYiB36QAnpqRjMgf10T4lyRikLUBBREyZwwFaOFPrMELXGnefS4Utm_9KCTo58FOy4Xcgyq9Uw==
+      Snippet: The 8.0 magnitude Wenchuan earthquake on May 12, 2008, severely affected Wenchuan county in Sichuan province, leading to near-complete destruction in many communities, impacting over 45.5 million people, and making rescue efforts challenging due to aftershocks and landslides.
+
+  [5] Remembering the Wenchuan Earthquake, Ten Years Later - Maura Elizabeth Cunningham
+      URL    : https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ2HV3sIwS1Mej5CjDT-aSZB2ofQ9uNO59McigF2sXZp6pfWnac23ZG9l0EsW9piC5Jun9dfCY4hJZoLCnVLZtlpeQJm9MFhTXGE43Xk-954PJfeSjXXtqotJjSgrLYKD29ir-oOBx4Er7Yk58p_uaDn8qdftppA4Q8UD0yy-V78DQz2pAPS9FZba7Ku2HR-I2NLAdFw==
+      Snippet: The magnitude-7.9 Wenchuan Earthquake, striking on May 12, 2008, caused entire towns to collapse and killed more than 85,000 people, with significant devastation due to the collapse of school buildings, leading to the deaths of over 5,000 children.
+
+----------------------------------------------------------------------
+  COLLECTED IMAGES  (5 found)
+----------------------------------------------------------------------
+  [1] File:1 wenchuan county sichuan panorama 2013.jpg
+      URL       : https://upload.wikimedia.org/wikipedia/commons/1/18/1_wenchuan_county_sichuan_panorama_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+      Thumbnail : https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1_wenchuan_county_sichuan_panorama_2013.jpg/960px-1_wenchuan_county_sichuan_panorama_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+      License   : CC BY-SA 3.0
+      Author    : <a href="//commons.wikimedia.org/wiki/User:Chensiyuan" title="User:Chensiyuan">Chensiyuan</a>
+      Local file: disaster_event_images/1_wenchuan_county_sichuan_panorama_2013.jpg
+
+  [2] File:Baihua Bridge.jpg
+      URL       : https://upload.wikimedia.org/wikipedia/commons/5/5b/Baihua_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+      Thumbnail : https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Baihua_Bridge.jpg/960px-Baihua_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+      License   : CC BY-SA 3.0
+      Author    : <a href="//commons.wikimedia.org/wiki/User:Jucember" title="User:Jucember">Jucember</a>
+      Local file: disaster_event_images/Baihua_Bridge.jpg
+
+  [3] File:Cemetery of Victims of Wenchuan Earthquake in Beichuan County.jpg
+      URL       : https://upload.wikimedia.org/wikipedia/commons/9/91/Cemetery_of_Victims_of_Wenchuan_Earthquake_in_Beichuan_County.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+      Thumbnail : https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cemetery_of_Victims_of_Wenchuan_Earthquake_in_Beichuan_County.jpg/960px-Cemetery_of_Victims_of_Wenchuan_Earthquake_in_Beichuan_County.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+      License   : CC BY-SA 4.0
+      Author    : <a href="//commons.wikimedia.org/w/index.php?title=User:%E6%9D%A5%E6%96%A4%E5%B0%8F%E4%BB%93%E9%BC%A0%E5%90%A7&amp;action=edit&amp;redlink=1" class="new" title="User:来斤小仓鼠吧 (page does not exist)">来斤小仓鼠吧</a>
+      Local file: disaster_event_images/Cemetery_of_Victims_of_Wenchuan_Earthquake_in_Beichuan_County.jpg
+
+  [4] File:Wenchuan.Qiang.diaolou.jpg
+      URL       : https://upload.wikimedia.org/wikipedia/commons/2/22/Wenchuan.Qiang.diaolou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+      Thumbnail : https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wenchuan.Qiang.diaolou.jpg/960px-Wenchuan.Qiang.diaolou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+      License   : CC BY-SA 3.0
+      Author    : <a href="//commons.wikimedia.org/wiki/User:Popolon" title="User:Popolon">Popolon</a>
+      Local file: disaster_event_images/Wenchuan.Qiang.diaolou.jpg
+
+  [5] File:Wenchuan.pont.detruit.jpg
+      URL       : https://upload.wikimedia.org/wikipedia/commons/4/44/Wenchuan.pont.detruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+      Thumbnail : https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Wenchuan.pont.detruit.jpg/960px-Wenchuan.pont.detruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+      License   : CC BY-SA 3.0
+      Author    : <a href="//commons.wikimedia.org/wiki/User:Popolon" title="User:Popolon">Popolon</a>
+      Local file: disaster_event_images/Wenchuan.pont.detruit.jpg
+
+======================================================================
+  END OF REPORT
+======================================================================
