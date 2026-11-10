@@ -5,11 +5,16 @@ identifies the specific event, sources real news articles about it, collects
 license-attributed photographs, and produces a structured situation brief — with
 schema validation at every agent boundary.
 
-The project was built as a six-workshop sequence and then merged into a single
-end-to-end pipeline. This repository contains that merged pipeline plus the fixes
-made while running it against live APIs.
+This was completed as a Build Project with Open Avenues Foundation (8 weeks, Data
+Science Fellow: Shubhashree Dash). Workshops 1–6 cover the pipeline itself; the merged
+notebook in this repository combines them into one end-to-end run and adds the fixes
+made while executing it against live APIs.
 
 ---
+
+Project brief: build an AI-powered situation brief generator that combines real-time
+news analysis with web-sourced event images, so that a reader can understand the scale
+and impact of a disaster without reading the underlying coverage.
 
 ## Pipeline
 
@@ -122,4 +127,4 @@ string that caused it.
 - MediaWiki API: `query`, `imageinfo` — https://www.mediawiki.org/wiki/API:Query · https://www.mediawiki.org/wiki/API:Imageinfo
 - Pydantic — https://docs.pydantic.dev
 
-> 
+> （注：部分内容由豆包 AI 生成）
